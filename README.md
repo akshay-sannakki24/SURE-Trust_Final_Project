@@ -94,7 +94,7 @@
 ## **Learnings from LST and SST**
 
 <!-- add your experiences over here -->
-> _The LSD session was very insightful. It highlighted the importance of good habits, such as helping others and sharing, along with communication and body language, which will help me improve both personally and professionally.
+> The LSD session was very insightful. It highlighted the importance of good habits, such as helping others and sharing, along with communication and body language, which will help me improve both personally and professionally.
 
 ## **Community Services**
 
