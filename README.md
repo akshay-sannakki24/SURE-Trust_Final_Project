@@ -40,7 +40,7 @@
 <div align="left" style="margin: 20px; font-size: 16px;">
 
 <p><strong>Trainer Name :</strong>  Mr.Derick Johnson  </p>
-<p><strong>Trainer Email ID :</strong> jderickmathew@gmail.com</p>
+<p><strong>Trainer Email ID :</strong>  jderickmathew@gmail.com</p>
 <p><strong>Trainer Designation :</strong> Cybersecurity Trainer & Master’s Student in Computer Security (Network Security)</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
